@@ -16,7 +16,7 @@ if paren_counter % 2 == 0 and quote_counter % 2 == 0:
 else: 
 	print("syntax not correct")
 
-api_key = "a257243860d54c9ab9d6527ddbe92034"
+api_key = ""
 example_text = code_input # the text to be spell-checked
 endpoint = "https://api.cognitive.microsoft.com/bing/v5.0/spellcheck"
 
