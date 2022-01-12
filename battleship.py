@@ -1,4 +1,3 @@
-2
 from random import randint
 
 board = []

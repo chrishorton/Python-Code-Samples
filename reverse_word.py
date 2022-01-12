@@ -16,8 +16,6 @@ def my_reverse(word):
 
 	return word
 
-chris.horton@sbcglobal.net
-
 my_word = "dog"
 reversed_word = my_reverse(my_word)
 print (reversed_word)
